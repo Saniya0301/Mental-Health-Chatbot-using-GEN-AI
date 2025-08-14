@@ -43,6 +43,7 @@ This project is licensed under the MIT License.
 🤝 Contributing
 
 PRs, suggestions, and feedback are welcome! Please open an issue or submit a pull request.
+
 ---
 🙏 Acknowledgements
 
